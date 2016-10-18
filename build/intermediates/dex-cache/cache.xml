@@ -30,6 +30,51 @@
     </item>
     <item
         is-multidex="false"
+        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0f786c9483be194c611ca37de9a323c4064491dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_351b6b7db43e56327db7ac0dab02225725f303cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_da8b8807633749246bb252c727da933760091547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_0c4f5ea3c24694a7f2dd7b73cd0888ee6d0ceb78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_dada116cdba1130933a9c2baf2f744e972262330.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -45,6 +90,15 @@
         revision="24.0.2"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
         <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_cafd74e8764f4387fa411c151a5b7dfa4a73e6f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_f869e72377f35b5a8d35a93741d5a9058b4bdd79.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,21 +120,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/tan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0f786c9483be194c611ca37de9a323c4064491dd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_351b6b7db43e56327db7ac0dab02225725f303cf.jar" />
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/okio-1.9.0_7dbd583ad2db79bcf699651d475ecff31e9241b0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,39 +147,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_da8b8807633749246bb252c727da933760091547.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
         <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ba7b61a7b839352f7e48e89e31f7fb86a5dbb4ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_0c4f5ea3c24694a7f2dd7b73cd0888ee6d0ceb78.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_dada116cdba1130933a9c2baf2f744e972262330.jar" />
     </item>
 
 </items>
