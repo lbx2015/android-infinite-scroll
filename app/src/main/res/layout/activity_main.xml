@@ -33,11 +33,19 @@
         android:layout_height="wrap_content"
         android:onClick="clickCalendar"
         android:text="go to Calendar" />
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="clickViewFlipper"
         android:text="go to view flipper" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="clickDynamicViewFlipper"
+        android:text="go to dynamic view flipper" />
+
     <TextView
         android:id="@+id/showhttpmessage"
         android:layout_width="match_parent"

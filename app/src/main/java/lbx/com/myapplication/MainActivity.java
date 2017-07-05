@@ -30,24 +30,29 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         okHttpClient = new OkHttpClient();
-        tv= (TextView) findViewById(R.id.showhttpmessage);
+        tv = (TextView) findViewById(R.id.showhttpmessage);
 
     }
 
-    public void clickGridView(final View v){
-        Intent i = new Intent(this,GridViewActivity.class);
+    public void clickGridView(final View v) {
+        Intent i = new Intent(this, GridViewActivity.class);
         startActivity(i);
     }
 
-    public void clickViewFlipper(View v ){
-        startActivity(new Intent(this,ViewFlipperActivity.class));
+    public void clickDynamicViewFlipper(View v) {
+        startActivity(new Intent(this, DynamicViewFlipperActivity.class));
     }
 
-    public void clickCalendar(final View v){
-        startActivity(new Intent(this,AndroidCalendarActivity.class));
+    public void clickViewFlipper(View v) {
+        startActivity(new Intent(this, ViewFlipperActivity.class));
     }
+
+    public void clickCalendar(final View v) {
+        startActivity(new Intent(this, AndroidCalendarActivity.class));
+    }
+
     public void simpleGetClick(View view) {
-        Log.d("TAGsimpleget","simplegetclick----");
+        Log.d("TAGsimpleget", "simplegetclick----");
 
         Request request = new Request.Builder()
                 .url("http://jeff-pluto-1874.iteye.com/blog/869710")
@@ -77,33 +82,37 @@ public class MainActivity extends AppCompatActivity {
         });*/
         okHttpClient.newCall(request).enqueue(callback);
     }
-    public void addParamGetClick(View view){
-        Request request=new Request.Builder().addHeader("hello","gonghao 9527").url("http://jeff-pluto-1874.iteye.com/blog/869710").build();
+
+    public void addParamGetClick(View view) {
+        Request request = new Request.Builder().addHeader("hello", "gonghao 9527").url("http://jeff-pluto-1874.iteye.com/blog/869710").build();
 
         okHttpClient.newCall(request).enqueue(callback);
     }
-    public void simplePostClick(View view){
-        RequestBody requestBody=new FormBody.Builder().add("name","jay").add("sex","ç?").build();
-        Request request=new Request.Builder().url("http://jeff-pluto-1874.iteye.com/blog/869710").addHeader("welcome","helloworld").post(requestBody).build();
+
+    public void simplePostClick(View view) {
+        RequestBody requestBody = new FormBody.Builder().add("name", "jay").add("sex", "ç?").build();
+        Request request = new Request.Builder().url("http://jeff-pluto-1874.iteye.com/blog/869710").addHeader("welcome", "helloworld").post(requestBody).build();
         okHttpClient.newCall(request).enqueue(callback);
 
     }
+
     private Callback callback = new Callback() {
         //onResponseåonFailureéœäžæ¯åšUIçº¿çšäž­æ§è¡ç
         @Override
         public void onFailure(Call call, IOException e) {
-            Log.d("TAGcallback","failure----");
+            Log.d("TAGcallback", "failure----");
         }
 
         @Override
         public void onResponse(Call call, Response response) throws IOException {
-            Log.d("TAGcallback","success----");
-            string=response.body().string();
+            Log.d("TAGcallback", "success----");
+            string = response.body().string();
             showmessage(string);
 
         }
     };
-    public void showmessage(final String string){
+
+    public void showmessage(final String string) {
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
