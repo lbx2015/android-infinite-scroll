@@ -28,6 +28,11 @@
         android:onClick="clickGridView"
         android:text="go to grid view" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="clickCalendar"
+        android:text="go to Calendar" />
     <TextView
         android:id="@+id/showhttpmessage"
         android:layout_width="match_parent"

@@ -38,6 +38,10 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this,GridViewActivity.class);
         startActivity(i);
     }
+
+    public void clickCalendar(final View v){
+        startActivity(new Intent(this,AndroidCalendarActivity.class));
+    }
     public void simpleGetClick(View view) {
         Log.d("TAGsimpleget","simplegetclick----");
 
