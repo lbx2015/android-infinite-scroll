@@ -3,156 +3,156 @@
 
     <item
         is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="C:\Users\zw.zhang\.android\build-cache\131d057326fb43faeae24f2f015a879ab4e7c3e9\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4866d45a563e24444bbe9f39a1a881c79a4c4e70.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_19df6e56fb16aae5449a2cfce842d092db4e7e38.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f8df6ee71b461f9c0e63ff18fa6210ac0dea9457.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0f786c9483be194c611ca37de9a323c4064491dd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_351b6b7db43e56327db7ac0dab02225725f303cf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_da8b8807633749246bb252c727da933760091547.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_0c4f5ea3c24694a7f2dd7b73cd0888ee6d0ceb78.jar" />
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\classes_68387242432b62a0d77463e3e7a3edb0a2ac62f7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="C:\Users\zw.zhang\.android\build-cache\189793a4abf13b34bcbb73cb74aba66b89f5feb0\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_dada116cdba1130933a9c2baf2f744e972262330.jar" />
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\classes_ffc89837d48fd939e5573a96ba4704bfe83ecdac.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="C:\Users\zw.zhang\.android\build-cache\5c64fba6b8d9cc30b545fd08c3a90bd2e98c35b7\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_cb7aa977160ca02d14c04a90396555471616c9be.jar" />
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\classes_9f68cb6e338fc24e3447ca27c9286e7ad37900c6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="C:\Users\zw.zhang\.android\build-cache\131d057326fb43faeae24f2f015a879ab4e7c3e9\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_cafd74e8764f4387fa411c151a5b7dfa4a73e6f2.jar" />
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_14c808640ba67096b3f71acd87f0ac194c4f57ee.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/tan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jar="C:\Users\zw.zhang\.android\build-cache\47dfaa241c593a64c0f5da3c386976846019abb1\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_f869e72377f35b5a8d35a93741d5a9058b4bdd79.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d46af69d06f73d25f6b16a211fe8a0644172aabb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4238e42a1bddc86cb8f1618a39baa4ed3a37668e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/okio-1.9.0_7dbd583ad2db79bcf699651d475ecff31e9241b0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_26013a79c4c86d8d4f9c0c4b767c387c3a241fe4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_7a83d185b4444368744a14be6cfc418d72aa00df.jar" />
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\classes_4ca10116e138ce381aeb56f9b43c05c27368a36c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/opt/android-infinite-scroll/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="C:\Users\zw.zhang\.android\build-cache\8a643cb9e3fa9ebc2ff18cf84e4bd3568dc92a2d\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5c7a73aa353de36a7cd070a2f3ae51a1bcf79bd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.android\build-cache\ff9532b1441037e9b18bb23dca889d4f61bfdbb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\classes_22a88ab85fdf46bfc1a1409db544e01812fcd4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\okio-1.9.0_92d5b6b071dda578797816a93a39fb5d61772bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.android\build-cache\e620fb23bfccf80ef05dab18f2d5cbca894df1b6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/opt/android-infinite-scroll/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ba7b61a7b839352f7e48e89e31f7fb86a5dbb4ad.jar" />
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_65c1dcb32c268582de4816a459497792ef4c93c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.android\build-cache\ed3ded1398683cf74c631b9ab51f9da42b9c88fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\classes_e6242833e699e5561edc3b3a7cc7d1095915b810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.android\build-cache\e620fb23bfccf80ef05dab18f2d5cbca894df1b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\classes_9ef66834c17396536e670b890c328039460da201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.android\build-cache\ed3ded1398683cf74c631b9ab51f9da42b9c88fb\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d5690eeafd38e4d0521fb36ecdb17e17ded244dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.android\build-cache\8a643cb9e3fa9ebc2ff18cf84e4bd3568dc92a2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\classes_77119b85c204b6750dcfd1077b6590aba9bdd760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.android\build-cache\ff9532b1441037e9b18bb23dca889d4f61bfdbb5\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eca4e0edfd01248f0ba853aaa9b1f771b859abbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_707714f65c253bfcf40618fbf4488281870be360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_624af572b37f097deaa8698b6dada33c00d0b317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zw.zhang\.android\build-cache\9165c437aaf8a47530f1c7f8ce60339a83812477\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\projects\githubMaster\app\build\intermediates\pre-dexed\debug\classes_9ea47ac047fb0205bae51b97910dcdcfe668ed16.jar" />
     </item>
 
 </items>

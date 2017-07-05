@@ -1,5 +1,6 @@
 package lbx.com.myapplication;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
@@ -31,6 +32,11 @@ public class MainActivity extends AppCompatActivity {
         okHttpClient = new OkHttpClient();
         tv= (TextView) findViewById(R.id.showhttpmessage);
 
+    }
+
+    public void clickGridView(final View v){
+        Intent i = new Intent(this,GridViewActivity.class);
+        startActivity(i);
     }
     public void simpleGetClick(View view) {
         Log.d("TAGsimpleget","simplegetclick----");
