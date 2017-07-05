@@ -39,6 +39,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void clickViewFlipper(View v ){
+        startActivity(new Intent(this,ViewFlipperActivity.class));
+    }
+
     public void clickCalendar(final View v){
         startActivity(new Intent(this,AndroidCalendarActivity.class));
     }
